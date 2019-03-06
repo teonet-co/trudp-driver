@@ -1,1 +1,1 @@
-Hello!
+Simple udp kernel-based server.
